@@ -35,7 +35,7 @@ Then it:
 
 ---
 
-## What the notebook does (high level)
+## What the notebook does 
 1. Downloads historical OHLCV data using yfinance.
 2. Creates simple features and the classification/regression targets.
 3. Splits data into train/test.
