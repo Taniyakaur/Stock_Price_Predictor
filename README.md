@@ -1,4 +1,3 @@
-# Stock_Price_Predictor
 # Stock Price Predictor (KNN)
 
 A simple stock price prediction and trading-signal notebook using K-Nearest Neighbors (KNN).  
