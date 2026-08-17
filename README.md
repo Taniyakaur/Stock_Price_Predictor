@@ -53,5 +53,3 @@ Then it:
   - matplotlib
   - yfinance
   - scikit-learn
-
-Install with pip:
